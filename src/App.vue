@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <ShoppingCart msg="Market America"/>
+    <ShoppingCart shopName="Market America"/>
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
+import "./assets/styleOutput.css"
 import ShoppingCart from './components/ShoppingCart.vue'
 
 export default {
