@@ -1,3 +1,9 @@
+# sushma's instructions:
+* The project was done SPA using Vue.js.
+* To view the project:
+* Make sure to npm install in directory market-america
+* Then, do npm run serve on terminal
+
 # market-america
 
 ## Project setup
